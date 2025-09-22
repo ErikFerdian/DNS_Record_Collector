@@ -18,7 +18,9 @@ python dns_collector.py <domain>
 python dns_collector.py google.com
 # Output
 <img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/28567856-f3fb-42b3-988c-81636814f7a6" />
+
 # Struktur Objek
+
   📂 DNS_Record_Collector
    ├── dns_collector.py   # Script utama untuk query DNS
    ├── dns_report.json    # Hasil query dalam format JSON
